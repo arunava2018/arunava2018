@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Arunava Banerjee 
+
+### About Me:
+I am a 1st Year Computer Science Undergrad at Narula Institute Of Technology. I am very new in this field of Tech. Currently I am learning C++. Now a days I am little bit active on Codechef. 
 
 <!--
 **arunava2018/arunava2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
