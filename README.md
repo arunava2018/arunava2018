@@ -2,7 +2,7 @@
 I am Arunava Banerjee 
 
 ### About Me:
-I am a 1st Year Computer Science Undergrad at Narula Institute Of Technology. I am very new in this field of Tech. Currently I am learning C++. Now a days I am little bit active on Codechef. 
+I am a 2nd Year Computer Science Undergrad at Narula Institute Of Technology. I am very new in this field of Tech. Currently I am learning C++. Now a days I am little bit active on Codechef. 
 
 <!--
 **arunava2018/arunava2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ I am a 1st Year Computer Science Undergrad at Narula Institute Of Technology. I 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...DSA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
