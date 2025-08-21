@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunava2018" alt="arunava2018" /></a> </p>
 
-- 🌱 I’m currently studying **Computer Science & Technology in Narula Institute Of Technology,Agarpara,Kolkata.**
+- 🎓 Bachelor of Technology (B.Tech) in Computer Science & Technology, **Narula Institute of Technology**.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Web-Devv**
-
-- 💬 Ask me about **DSA, Cp ,Tech related Stuffs**
+- 💬 Ask me about **DSA, Competitive programming and Tech**
 
 - 📫 How to reach me **arunavabanerjee2018@gmail.com**
 
