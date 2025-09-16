@@ -152,7 +152,6 @@
 <div align="center">
 
 [![Prepmate](https://github-readme-stats.vercel.app/api/pin/?username=arunava2018&repo=PrepMate-FullStack&theme=tokyonight)](https://github.com/arunava2018/PrepMate-FullStack)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arunava2018&repo=Portfolio&theme=tokyonight)](https://github.com/arunava2018/Portfolio)
 [![Trimrr](https://github-readme-stats.vercel.app/api/pin/?username=arunava2018&repo=Trimrr-Fullstack&theme=tokyonight)](https://github.com/arunava2018/Trimrr-Fullstack)
 
 </div>
